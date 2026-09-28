@@ -1,16 +1,18 @@
-# Differential Amplifier: UMC 180 nm CMOS
+# Differential Amplifier: UMC 180 nm CMOS ( TTRP Project )
 
-A single-ended-output differential amplifier, designed, simulated, laid out and verified in **Cadence Virtuoso** on the **UMC 180 nm** process, from schematic through post-layout simulation.
+![Team](https://img.shields.io/badge/Team-Peaky%20Balwindars-blue)
+![Process](https://img.shields.io/badge/Process-UMC%20180%20nm-green)
+![Tool](https://img.shields.io/badge/Tool-Cadence%20Virtuoso-orange)
 
-Completed as part of the **TTRP Project**.
 
-| | |
-| --- | --- |
-| **Team** | Peaky Balwindars |
-| **Members** | Ravi Patel, Kartik Jhangir, Rupesh, Suryanshu Raghav |
-| **Library** | `TTRP_RaviRupesh_kartik` |
-| **Cell** | `diff_amp` |
+## Team Contributions
 
+| Phase | Team Member | Roll No. |
+| --- | --- | --- |
+| **Pre-layout design and simulation** | Ravi Patel | MMV2026012 |
+| | Kartik Jhangir | CSP2026 |
+| **Post-layout design and simulation** | Suryanshu Raghav | MMV2026019 |
+| | Rupesh Choudhary | CSP2026 |
 ---
 
 ## Contents
