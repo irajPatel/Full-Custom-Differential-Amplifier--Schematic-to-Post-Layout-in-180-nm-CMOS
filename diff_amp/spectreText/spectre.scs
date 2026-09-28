@@ -1,0 +1,8 @@
+// "spectre" description for "TTRP_RaviRupesh_kartik", "diff_amp", "spectreText" 
+
+
+simulator lang=spectre
+
+subckt diff_amp
+
+ends diff_amp
