@@ -10,9 +10,9 @@
 | Phase | Team Member | Roll No. |
 | --- | --- | --- |
 | **Pre-layout design and simulation** | Ravi Patel | MMV2026012 |
-| | Kartik Jhangir | CSP2026 |
+| | Kartik Jangir | MCS2026014 |
 | **Post-layout design and simulation** | Suryanshu Raghav | MMV2026019 |
-| | Rupesh Choudhary | CSP2026 |
+| | Rupesh Tyagi | MCS2026012 |
 ---
 
 ## Contents
